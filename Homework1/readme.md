@@ -9,3 +9,7 @@ dzen.ru работает на протоколе - HTTPS
 
 Стало:
 ![](Screenshot2.png)
+
+**3. Создайте прототип низкой детализации (сайт dzen.ru)**
+![](prototype.drawio.png)
+
