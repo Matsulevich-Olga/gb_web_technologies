@@ -1,0 +1,88 @@
+﻿<?xml version="1.0"?>
+<Films>
+  <Film>
+      <Title>Гарри Поттер и Философский Камень</Title>
+      <Director>Крис Коламбус</Director>
+      <Genre>Фэнтези</Genre>
+      <Year>2001</Year>
+      <Actor>
+           <Name>Дэниел</Name>
+           <Surname>Рэдклифф</Surname>
+           <Role>Гарри Поттер</Role>
+      </Actor>
+      <Actor>
+           <Name>Эмма</Name>
+           <Surname>Уотсон</Surname>
+           <Role>Гермиона Грейнджер</Role>
+      </Actor>
+      <Actor>
+           <Name>Руперт</Name>
+           <Surname>Грин</Surname>
+           <Role>Рон Уизли</Role>
+      </Actor>
+  </Film>
+  <Film>
+      <Title>Фантастические твари и где они обитают</Title>
+      <Director>Дэвид Йейтс</Director>
+      <Genre>Фэнтези</Genre>
+      <Year>2016</Year>
+      <Actor>
+           <Name>Эдди</Name>
+           <Surname>Редмейн</Surname>
+           <Role>Ньют Саламандер</Role>
+      </Actor>
+      <Actor>
+           <Name>Кэтрин</Name>
+           <Surname>Уотерстон</Surname>
+           <Role>Порпентина Голдштейн</Role>
+      </Actor>
+      <Actor>
+           <Name>Джонни</Name>
+           <Surname>Дэпп</Surname>
+           <Role>Геллерт Гриндевальт</Role>
+      </Actor>
+  </Film>
+  <Film>
+      <Title>Джокер</Title>
+      <Director>Тодд Филлипс</Director>
+      <Genre>Психологический триллер</Genre>
+      <Year>2019</Year>
+      <Actor>
+           <Name>Хоакин</Name>
+           <Surname>Феникс</Surname>
+           <Role>Джокер</Role>
+      </Actor>
+  </Film>
+  <Film>
+      <Title>Я плюю на ваши могилы</Title>
+      <Director>Стивен Р. Монро</Director>
+      <Genre>Триллер</Genre>
+      <Year>2010</Year>
+      <Actor>
+           <Name>Сара</Name>
+           <Surname>Батлер</Surname>
+           <Role>Дженнифер</Role>
+      </Actor>
+  </Film>
+  <Film>
+      <Title>Интерстеллар</Title>
+      <Director>Кристофер Нолан</Director>
+      <Genre>Научная Фантастика</Genre>
+      <Year>2014</Year>
+      <Actor>
+           <Name>Мэттью</Name>
+           <Surname>Макконахи</Surname>
+           <Role>Купер</Role>
+      </Actor>
+      <Actor>
+           <Name>Энн</Name>
+           <Surname>Хэтэуэй</Surname>
+           <Role>Амелия Брэнд</Role>
+      </Actor>
+      <Actor>
+           <Name>Мэтт</Name>
+           <Surname>Дэймон</Surname>
+           <Role>доктор Манн</Role>
+      </Actor>
+  </Film>
+</Films>
